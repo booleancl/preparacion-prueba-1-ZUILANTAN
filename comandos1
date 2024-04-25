@@ -6,13 +6,14 @@ mkdir carreras
 cd carreras 
 mkdir administracion 
 cd administracion 
-mkdir modulo.00
-cd modulo.00
+mkdir modulo-00
+cd modulo-00
 touch index.md 
 cd ..
-mkdir modulo.01
-cd modulo.01
+mkdir modulo-01
+cd modulo-01
 touch index.md
+cd ..
 cd ..
 mkdir artes culinaria 
 cd artes culinaria 
@@ -24,12 +25,12 @@ touch lista.txt
 cd ..
 mkdir programacion 
 cd programacion
-mkdir modulo.00
-cd modulo.00
+mkdir modulo-00
+cd modulo-00
 touch index.md 
 cd ..
-mkdir modulo.01
-cd modulo.01
+mkdir modulo-01
+cd modulo-01
 touch index.md
 
 
